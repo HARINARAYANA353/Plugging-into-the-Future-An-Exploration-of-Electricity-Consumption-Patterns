@@ -1,1 +1,1 @@
-# This is my intrenship project for 8th semester 
+# This is my internship project for 8th semester 
